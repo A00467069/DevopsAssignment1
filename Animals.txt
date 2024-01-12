@@ -1,3 +1,6 @@
 Zebra
 Monkey
 Snake
+Cat
+Dog
+Bird
